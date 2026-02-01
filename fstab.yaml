@@ -10,5 +10,9 @@ mountpoints:
 >>>>>>> 47f5359 (Update fstab.yaml)
 =======
   /:
+<<<<<<< HEAD
     url: "https://drive.google.com/drive/u/1/folders/1qaxt9casd6OMPAqrgwa0M6q_aVZSeXal"
 >>>>>>> b693bbe (Update fstab.yaml)
+=======
+    url: "https://drive.google.com/drive/u/1/folders/1QlZAUHeq1hmxeO587AY_MU2LF0DlkCbg"
+>>>>>>> 5c6a56b (Update fstab.yaml)
